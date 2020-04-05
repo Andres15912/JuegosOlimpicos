@@ -1,0 +1,14 @@
+{
+  "name": "juegosolimpicos",
+  "version": "1.0.0",
+  "description": "Api development for the olympic games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lardin Armas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
